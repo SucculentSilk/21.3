@@ -1,0 +1,25 @@
+.navigation {
+    align-items: center;
+    justify-content: center;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.menuItem {
+    margin: 1rem;
+}
+
+.hero {
+    background-image: url(../images/succulentHero.jpg);
+    height: 1000px;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
